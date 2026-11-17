@@ -95,12 +95,6 @@ https://www.modernsecurity.io/courses/ai-security-certification
 
 It covers LLM security, prompt injection, RAG security, AI agent security, MCP security, and defensive engineering.
 
-## Disclaimer
-
-This repository shares information about the Modern Security Black Friday 2026 certification offer for educational and informational purposes.
-
-Please check the official website for current course pricing, coupon validity, enrollment details, and promotional terms.
-
 ---
 
 **Certification Provider:** [Modern Security IO](https://www.modernsecurity.io/)
